@@ -7,6 +7,8 @@
 // @copyright   CC-BY-SA 3.0 / GNU GPL v3
 // @author      田生
 // @grant       none
+// @updateURL   https://tiansh.github.io/us-webqq/web_qq_auto_max_window/web_qq_auto_max_window.meta.js
+// @downloadURL https://tiansh.github.io/us-webqq/web_qq_auto_max_window/web_qq_auto_max_window.user.js
 // ==/UserScript==
 
 setInterval(function () {

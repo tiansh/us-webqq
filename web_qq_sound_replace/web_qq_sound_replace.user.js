@@ -11,6 +11,8 @@
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_addStyle
+// @updateURL   https://tiansh.github.io/us-webqq/web_qq_sound_replace/web_qq_sound_replace.meta.js
+// @downloadURL https://tiansh.github.io/us-webqq/web_qq_sound_replace/web_qq_sound_replace.user.js
 // ==/UserScript==
 
 (function () {
