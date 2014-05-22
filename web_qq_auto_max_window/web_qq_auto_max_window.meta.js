@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Web QQ Auto Max Window
 // @namespace   https://github.com/tiansh
+// @description 网页QQ窗口自动最大化
 // @include     http://web*.qq.com/webqq.html
 // @include     https://web*.qq.com/webqq.html
 // @version     1.2
